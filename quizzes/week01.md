@@ -9,25 +9,25 @@ changing directories
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+making directories
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+This is where the html goes. It contains virtually everything and defines how the website will behave.
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+hypertext markup language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,35 +38,35 @@ changing directories
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Selector, property, and value. 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+font weight
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+The body tag
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul, ol, and dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+Flex allows items to fill the available space instead of taking up a defined block
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+margin and padding, as well as width and height of the elements.
 ```
